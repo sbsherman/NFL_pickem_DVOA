@@ -2,7 +2,7 @@
 
 The Defense-Adjusted Value Over Average (DVOA) is a way of measuring the success of both the offense and the defense for an NFL team (or individual players). The basic idea of this statistis is that it assigns higher weight to plays of more importance. As an example, gaining two yards on 3rd and 10 is far from a successful play, but gaining two yards on 3rd and 1 is extremely important and would be a sucessful play. At its most basic level, in a head to head matchup the team with higher DVOA should win.
 
-For a much more in depth description of DVOA (and its caveats) see:[Football Outsiders](https://www.footballoutsiders.com/info/methods)
+For a much more in depth description of DVOA (and its caveats) see [Football Outsiders](https://www.footballoutsiders.com/info/methods)
 
 # Can DVOA help win a pick 'em pool?
 For the past two years I have been participating in an NFL pick-em pool (hosted by the Shir Ami Mens' Club and benefiting their charitable organizations) where we do straight-up pick 'em (you get a point for picking the correct winner of a game). Each week of the regular season, the top three competitors win money. There are also prizes for the top three competitors across the whole regular season, which is decided by the total number of games picked correctly. 
